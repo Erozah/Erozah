@@ -2,8 +2,6 @@
 
 ### A passionate full-stack developer from France
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Erozah&label=Profile views&color=0e75b6&style=flat" alt="Erozah" /> </p>
-
 - 🔭 I'm currently working on **a portfolio**
 
 - 🌱 I'm currently learning **HTML/CSS/JS**
