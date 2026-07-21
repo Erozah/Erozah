@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **HTML/CSS/JS**
 
-- ⚡ Fun fact **: Being lazy for a good reason**
+- ⚡ Fun fact **: Work smarter, not harder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
