@@ -6,25 +6,25 @@ Software developer focused on backend architectures, clean code design, and real
 
 ### 🚀 Featured Projects
 
-- **[Cosmic Cat Visualizer](https://github.com/Erozah/cosmic-cat-visualizer)** — Visualiseur audio interactif 60 FPS (Canvas 2D & Web Audio API).
-  - Rendu temps réel sans framework, physique cinématique de Verlet (animation de la queue) et FFT audio.
-  - Double compatibilité : application web autonome avec [démo en ligne](https://erozah.github.io/cosmic-cat-visualizer/) et extension Spotify via Spicetify.
+- **[Cosmic Cat Visualizer](https://github.com/Erozah/cosmic-cat-visualizer)**: Visualiseur audio interactif 60 FPS (Canvas 2D et Web Audio API).
+  - Rendu temps reel sans framework, physique cinematique de Verlet (animation de la queue) et FFT audio.
+  - Double compatibilite : application web autonome avec [demo en ligne](https://erozah.github.io/cosmic-cat-visualizer/) et extension Spotify via Spicetify.
 
-- **[Kestachet](https://github.com/Erozah/kestachet)** — REST API for collaborative grocery lists with dynamic budget tracking.
+- **[Kestachet](https://github.com/Erozah/kestachet)**: REST API for collaborative grocery lists with dynamic budget tracking.
   - Built with **Hexagonal Architecture (Ports & Adapters)** in Spring Boot.
   - Idempotent **Offline-First** batch synchronization engine.
   - External catalog integration (Open Food Facts GTIN lookup) and async consumption reporting.
 
-- **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)** — Real-time WiFi signal monitoring & home benchmarking tool.
+- **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)**: Real-time WiFi signal monitoring and home benchmarking tool.
   - Live signal metering (dBm), channel inspection, and gateway latency tracking.
   - 60 FPS real-time Canvas history with interactive audio feedback (Web Audio API / Geiger counter mode).
   - Room benchmarking with mobile QR code access.
 
-- **[Donjons & Dragons](https://github.com/Erozah/D-D)** — Turn-based board game built with Java.
+- **[Donjons & Dragons](https://github.com/Erozah/D-D)**: Turn-based board game built with Java.
   - Object-oriented domain modeling (characters, items, board state management).
   - Modular game engine and interactive CLI.
 
-- **[Portfolio](https://github.com/Erozah/Portfolio)** — Personal responsive showcase website.
+- **[Portfolio](https://github.com/Erozah/Portfolio)**: Personal responsive showcase website.
   - Built with modern semantic HTML5, CSS custom properties, and Vanilla JavaScript.
 
 ---
