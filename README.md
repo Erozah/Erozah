@@ -1,19 +1,48 @@
 # Hi 👋, I'm Erozah
 
-### A passionate full-stack developer from France
+Software developer focused on backend architectures, clean code design, and real-time interactive tools. I build reliable REST APIs, offline-first systems, and responsive web applications.
 
-- 🔭 I'm currently working on **a portfolio**
+---
 
-- 🌱 I'm currently learning **HTML/CSS/JS**
+### 🚀 Featured Projects
 
-- ⚡ Fun fact **: Work smarter, not harder**
+- **[Kestachet](https://github.com/Erozah/kestachet)** — REST API for collaborative grocery lists with dynamic budget tracking.
+  - Built with **Hexagonal Architecture (Ports & Adapters)** in Spring Boot.
+  - Idempotent **Offline-First** batch synchronization engine.
+  - External catalog integration (Open Food Facts GTIN lookup) and async consumption reporting.
 
-<h3 align="left">Connect with me:</h3>
+- **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)** — Real-time WiFi signal monitoring & home benchmarking tool.
+  - Live signal metering (dBm), channel inspection, and gateway latency tracking.
+  - 60 FPS real-time Canvas history with interactive audio feedback (Web Audio API / Geiger counter mode).
+  - Room benchmarking with mobile QR code access.
+
+- **[Donjons & Dragons](https://github.com/Erozah/D-D)** — Turn-based board game built with Java.
+  - Object-oriented domain modeling (characters, items, board state management).
+  - Modular game engine and interactive CLI.
+
+- **[Portfolio](https://github.com/Erozah/Portfolio)** — Personal responsive showcase website.
+  - Built with modern semantic HTML5, CSS custom properties, and Vanilla JavaScript.
+
+---
+
+### 🛠️ Languages & Technologies
+
 <p align="left">
-<a href="https://github.com/Erozah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Erozah" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,py,c,js,html,css,linux,git,maven" alt="Tech Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+- **Core & Backend:** Java (17/21), Spring Boot, Spring Data JPA, Python, C, SQL
+- **Architecture & Paradigms:** Hexagonal Architecture, REST APIs, Offline-First Sync, OOP, TDD
+- **Frontend & Web:** JavaScript (ES6+), HTML5 / CSS3, Canvas 2D, Web Audio API
+- **Tools & Environments:** Linux (Debian/Ubuntu), Git, Maven, PostgreSQL, H2
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erozah&label=Profile%20views&color=0e75b6&style=flat" alt="erozah" /> </p>
+---
+
+### 🌐 Connect & Links
+
+- **GitHub:** [github.com/Erozah](https://github.com/Erozah)
+- **Portfolio:** [erozah.github.io/Portfolio](https://erozah.github.io/Portfolio)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=erozah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
