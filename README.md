@@ -6,9 +6,9 @@ Software developer focused on backend architectures, clean code design, and real
 
 ### 🚀 Featured Projects
 
-- **[Cosmic Cat Visualizer](https://github.com/Erozah/cosmic-cat-visualizer)**: Visualiseur audio interactif 60 FPS (Canvas 2D et Web Audio API).
-  - Rendu temps reel sans framework, physique cinematique de Verlet (animation de la queue) et FFT audio.
-  - Double compatibilite : application web autonome avec [demo en ligne](https://erozah.github.io/cosmic-cat-visualizer/) et extension Spotify via Spicetify.
+- **[Spicetify Visualizer Engine](https://github.com/Erozah/spicetify-visualizer)**: Moteur de visualisation audio 60 FPS pour Spotify.
+  - Architecture modulaire (principes SOLID) supportant l'injection de "Mod Packs" (Cyber Cat, Cosmic Cat, Red Panda, décors spatiaux et forestiers).
+  - Rendu temps réel natif (Canvas 2D), analyse fréquentielle audio (FFT), physique cinématique de Verlet et animations procédurales réactives.
 
 - **[Kestachet](https://github.com/Erozah/kestachet)**: REST API for collaborative grocery lists with dynamic budget tracking.
   - Built with **Hexagonal Architecture (Ports & Adapters)** in Spring Boot.
