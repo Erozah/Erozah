@@ -1,3 +1,5 @@
+[English](README.md) | [Français](README.fr.md)
+
 # Hi 👋, I'm Erozah
 
 Software developer focused on backend architectures, clean code design, and real-time interactive tools. I build reliable REST APIs, offline-first systems, and responsive web applications.
@@ -6,14 +8,14 @@ Software developer focused on backend architectures, clean code design, and real
 
 ### 🚀 Featured Projects
 
-- **[Spicetify Visualizer Engine](https://github.com/Erozah/spicetify-visualizer)**: Moteur de visualisation audio 60 FPS pour Spotify.
-  - Architecture modulaire (principes SOLID) supportant l'injection de "Mod Packs" (Cyber Cat, Cosmic Cat, Red Panda, décors spatiaux et forestiers).
-  - Rendu temps réel natif (Canvas 2D), analyse fréquentielle audio (FFT), physique cinématique de Verlet et animations procédurales réactives.
+- **[Spicetify Visualizer Engine](https://github.com/Erozah/spicetify-visualizer)**: 60 FPS real-time audio visualizer for Spotify.
+  - Modular SOLID architecture supporting dynamic "Mod Packs" (Cyber Cat, Cosmic Cat, Red Panda).
+  - Native 2D Canvas rendering, audio FFT spectral analysis, Verlet particle physics, and reactive procedural animations.
 
-- **[Kestachet](https://github.com/Erozah/kestachet)**: REST API for collaborative grocery lists with dynamic budget tracking.
-  - Built with **Hexagonal Architecture (Ports & Adapters)** in Spring Boot.
-  - Idempotent **Offline-First** batch synchronization engine.
-  - External catalog integration (Open Food Facts GTIN lookup) and async consumption reporting.
+- **[Square Games Platform](https://github.com/Erozah/square_games)**: Modular multiplayer turn-based board games platform.
+  - Spring Boot API and web UI powering Tic-Tac-Toe, Connect Four, and 15-Puzzle.
+  - Extensible plugin engine, dual JPA and Spring JDBC persistence layers, and RSA JWT security.
+  - Coupled with a dedicated [Users Microservice](https://github.com/Erozah/square_games_users).
 
 - **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)**: Real-time WiFi signal monitoring and home benchmarking tool.
   - Live signal metering (dBm), channel inspection, and gateway latency tracking.
