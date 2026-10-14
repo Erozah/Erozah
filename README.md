@@ -48,7 +48,3 @@ Software developer focused on backend architectures, clean code design, and real
 
 - **GitHub:** [github.com/Erozah](https://github.com/Erozah)
 - **Portfolio:** [erozah.github.io/Portfolio](https://erozah.github.io/Portfolio)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=erozah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>

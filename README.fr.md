@@ -48,7 +48,3 @@ Développeur logiciel orienté architectures backend, clean code et outils inter
 
 - **GitHub :** [github.com/Erozah](https://github.com/Erozah)
 - **Portfolio :** [erozah.github.io/Portfolio](https://erozah.github.io/Portfolio)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=erozah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
