@@ -17,6 +17,11 @@ Développeur logiciel orienté architectures backend, clean code et outils inter
   - Architecture extensible par plugins, double couche de persistance JPA et Spring JDBC, et sécurisation par jetons JWT (RSA).
   - Couplé avec un [Microservice Utilisateurs](https://github.com/Erozah/square_games_users) dédié.
 
+- **[CartSync](https://github.com/Erozah/CartSync)** : API de gestion de listes de courses partagées et moteur de budget temps réel.
+  - Conçue en **Architecture Hexagonale (Ports & Adaptateurs)** avec Spring Boot.
+  - Moteur de synchronisation par lots **Offline-First** idempotent.
+  - Intégration de catalogue externe (recherche GTIN Open Food Facts) et analyse asynchrone des paniers.
+
 - **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)** : Outil de mesure de signal Wi-Fi temps réel et benchmark résidentiel.
   - Mesure instantanée (dBm), inspection des canaux et latence vers la passerelle.
   - Historique 60 FPS sur Canvas avec retours sonores interactifs (Web Audio API / mode compteur Geiger).

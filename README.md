@@ -17,6 +17,11 @@ Software developer focused on backend architectures, clean code design, and real
   - Extensible plugin engine, dual JPA and Spring JDBC persistence layers, and RSA JWT security.
   - Coupled with a dedicated [Users Microservice](https://github.com/Erozah/square_games_users).
 
+- **[CartSync](https://github.com/Erozah/CartSync)**: Collaborative grocery lists API and real-time budget engine.
+  - Built with **Hexagonal Architecture (Ports & Adapters)** in Spring Boot.
+  - Idempotent **Offline-First** batch synchronization engine.
+  - External catalog integration (Open Food Facts GTIN lookup) and async consumption analytics.
+
 - **[Wifi Signal Tracker](https://github.com/Erozah/Wifi_signal_tracker)**: Real-time WiFi signal monitoring and home benchmarking tool.
   - Live signal metering (dBm), channel inspection, and gateway latency tracking.
   - 60 FPS real-time Canvas history with interactive audio feedback (Web Audio API / Geiger counter mode).
